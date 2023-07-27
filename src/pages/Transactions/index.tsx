@@ -40,7 +40,7 @@ export function Transactions() {
               <td>
                 <PriceHighLight variant="outcome">- R$ 350,00</PriceHighLight>
               </td>
-              <td>Venda</td>
+              <td>Casa</td>
               <td>03/07/2023</td>
             </tr>
           </tbody>
