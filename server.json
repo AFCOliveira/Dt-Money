@@ -5,16 +5,24 @@
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 39000,
       "createdAt": "2023-07-31T21:52:35.543Z"
     },
     {
       "id": 2,
-      "description": "Desenvolvimento de software",
+      "description": "Compra de software",
       "type": "outcome",
       "category": "Compra",
       "price": 25000,
       "createdAt": "2023-07-31T21:45:35.543Z"
+    },
+    {
+      "id": 3,
+      "description": "Compra do mês da casa",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 540,
+      "createdAt": "2023-07-31T17:45:35.543Z"
     }
   ]
 }
