@@ -23,6 +23,22 @@
       "category": "Alimentação",
       "price": 540,
       "createdAt": "2023-07-31T17:45:35.543Z"
+    },
+    {
+      "description": "Hamburguer",
+      "price": 49,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-01T23:05:57.789Z",
+      "id": 4
+    },
+    {
+      "description": "Cereais",
+      "price": 11,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-01T23:06:39.940Z",
+      "id": 5
     }
   ]
 }
